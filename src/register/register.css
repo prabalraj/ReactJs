@@ -1,0 +1,14 @@
+.register-button{
+margin-right: 5rem;   
+font-weight: bold;
+}
+
+.registerimage{
+    min-height:18rem;
+    max-width: 17rem;
+    margin-left: -3rem;
+}
+.reg-login-button{
+    margin-left: -3rem !important;
+
+}

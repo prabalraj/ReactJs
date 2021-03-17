@@ -1,0 +1,11 @@
+.login-button{
+    float: right;
+    margin-top:1.2rem ;
+}
+
+.loginimage{
+    min-height:15rem;
+    max-width: 15rem;
+    margin-left: -2rem;
+}
+ 
